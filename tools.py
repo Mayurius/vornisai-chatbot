@@ -25,6 +25,12 @@ _PLACEHOLDER_DATA = {
     "earth": {"gravity_ms2": 9.81, "mean_temp_c": 15, "distance_au": 1.0, "atmosphere": "N2/O2"},
     "mars": {"gravity_ms2": 3.71, "mean_temp_c": -63, "distance_au": 1.52, "atmosphere": "CO2, very thin"},
     "jupiter": {"gravity_ms2": 24.79, "mean_temp_c": -110, "distance_au": 5.2, "atmosphere": "H2/He, no surface"},
+    "saturn": {"gravity_ms2": 10.44, "mean_temp_c": -140, "distance_au": 9.58, "atmosphere": "H2/He, no solid surface"},
+    "uranus": {"gravity_ms2": 8.69, "mean_temp_c": -195, "distance_au": 19.2, "atmosphere": "H2/He/CH4, no solid surface"},
+    "neptune": {"gravity_ms2": 11.15, "mean_temp_c": -200, "distance_au": 30.05, "atmosphere": "H2/He/CH4, no solid surface"},
+    "moon": {"gravity_ms2": 1.62, "mean_temp_c": -53, "distance_au": 1.0, "atmosphere": "negligible"},
+    "titan": {"gravity_ms2": 1.35, "mean_temp_c": -179, "distance_au": 9.58, "atmosphere": "N2, dense"},
+    "pluto": {"gravity_ms2": 0.62, "mean_temp_c": -229, "distance_au": 39.5, "atmosphere": "N2, very thin"},
 }
 
 
